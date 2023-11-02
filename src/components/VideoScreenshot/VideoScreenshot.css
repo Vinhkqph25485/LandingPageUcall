@@ -1,0 +1,36 @@
+.image {
+  position: absolute;
+  z-index: 3;
+}
+
+.video {
+  position: relative;
+  z-index: 4;
+  margin-top: 6px;
+  margin-left: 6px;
+  border-radius: 35px;
+}
+
+.button-container {
+  position: relative;
+}
+
+.button-container .prev-button {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  background: #fff;
+  transform: translate(-50%, -50%);
+  border: none;
+  z-index: 0;
+}
+
+.button-container .next-button {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  background: #fff;
+  transform: translate(50%, -50%);
+  border: none;
+  z-index: 0;
+}
