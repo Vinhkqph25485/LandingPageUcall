@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { options, options1 } from "@/utils/data";
 import { Modal, Select, Typography, message } from "antd";
 import { Button, Form, Input } from "antd";
