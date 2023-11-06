@@ -341,8 +341,8 @@ export const ContactFormPage = () => {
             </div>
             <div className="pb-5">
               <h3 className="text-[16px] font-semibold">Địa chỉ</h3>
-              <p>Số 221 Trần Quang Khải, Phường Tân Định, Quận 1</p>
-              <p>Thành phố Hồ Chí Minh, Việt Nam</p>
+              <p>Số 52 Phố Chùa hà, Phường Quan Hoa, </p>
+              <p>Quận Cầu Giấy, Thành phố Hà Nội.</p>
             </div>
             {!isMobile && (
               <div>

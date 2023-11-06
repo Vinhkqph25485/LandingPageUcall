@@ -18,7 +18,7 @@ export const Problems = () => {
       title: "Thuê Telesales và đào ",
       title1: "tạo không hiệu quả",
       description:
-        "Tốc độ triển khai chiến dịch telesale chậm, chất lượng nhân viên telesale không đồng đều, tỉ lệ nghỉ việc cao, dễ đánh mất khách hàng vào tay đối thủ.",
+        "Tốc độ triển khai chiến dịch telesale chậm, chất lượng nhân viên telesale không đồng đều, tỉ lệ nghỉ việc cao, dễ đánh mất khách hành.",
     },
     {
       image: Asset_4,

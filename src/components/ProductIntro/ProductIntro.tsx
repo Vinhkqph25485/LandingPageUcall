@@ -12,7 +12,7 @@ const ProductIntro = () => {
     {
       image: Asset_5,
       title: "Nhận diện giọng nói chính xác, tương tác tự nhiên",
-      description: "Giải pháp auto call tích hợp công nghệ AI nhận diện giọng nói, trả lời tự nhiên giống 99% người thật, ngôn ngữ đa vùng miền giúp phân loại khách hàng tiềm năng nhanh chóng.",
+      description: "Giải pháp auto call tích hợp công nghệ AI nhận diện giọng nói, trả lời tự nhiên giống 99% người thật, ngôn ngữ đa vùng miền giúp phân loại khách hàng nhanh chóng.",
     },
     {
       image: Asset_7,

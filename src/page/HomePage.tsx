@@ -12,6 +12,7 @@ import VideoScreenshot from "@/components/VideoScreenshot/VideoScreenshot";
 import Customers from "@/components/Customers/Customers";
 import CaseSolution from "@/components/CasesSolution/CaseSolution";
 import { useEffect, useState } from "react";
+import logo from './android-chrome-192x192.png'
 const HomePage = () => {
   const [showPopup, setShowPopup] = useState(false);
   const [hasShownPopup, setHasShownPopup] = useState(false);
@@ -39,6 +40,7 @@ const HomePage = () => {
 
   return (
     <div>
+      <div className="flex items-center justify-center gap-8 mx-auto py-5"><img src={logo} width={50} alt="" /> <h1 className="text-4xl font-bold text-[#1e2967]">UCALL</h1></div>
       <div className="bg-[#1e2967]">
         <div className="w-[1200px] mx-auto py-8">
           <div className="grid grid-cols-2">

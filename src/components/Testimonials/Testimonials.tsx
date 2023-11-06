@@ -26,7 +26,7 @@ const data = [
     avatar: Image_2,
     title: "CEO Công ty cổ phần CEN HCM",
     description:
-      "1 giải pháp marketing đắc lực cho doanh nghiệp bất động sản. [...] Tôi dùng giải pháp auto call AI Callbot của UCALL để giới thiệu dự án chung cư đất nền thấy tiết kiệm chi phí thuê telesales đáng kể và hiệu quả quản lý tốt hơn rất nhiều. Tôi có thể bóc tách nhu cầu khách hàng và nghe lại ghi âm, chọn khung giờ vàng telesales và gọi cả trăm cuộc gọi cùng một lúc. ",
+      "1 giải pháp marketing đắc lực cho doanh nghiệp bất động sản. Tôi dùng giải pháp auto call AI Callbot của UCALL để giới thiệu dự án chung cư đất nền thấy tiết kiệm chi phí thuê telesales đáng kể và hiệu quả quản lý tốt hơn rất nhiều. Tôi có thể bóc tách nhu cầu khách hàng và nghe lại ghi âm, chọn khung giờ vàng telesales và gọi cả trăm cuộc gọi cùng một lúc. ",
   },
   {
     name: "Anh Lê Sơn Đỉnh ",
